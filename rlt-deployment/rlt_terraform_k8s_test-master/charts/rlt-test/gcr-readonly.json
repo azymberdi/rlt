@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "carbon-trilogy-294216",
+  "private_key_id": "63d603f779f81dc756a725aa96a7b40fe8b035b2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDGuxiMfIfUpQUf\n0TjoQSNYT6PJkbw/KPVlK79VUHOitx4Q48tU9CRmrXsq59Uy2xzuPRNdbFKPZHeM\nlro4UHoG+YHS9gB7iLYi5IK1aLYehmEw6MnMi2BLBd1fEsm5cRAGmDdXS083S1AW\nB6Pr9QYdWtURbrm0AsczGg7HcUUzYx1Q/swAsIeS/27SsMZPJAYjcbnCPfRtLqld\nQ2vUG8y3i/KzacqP3MqsLHjDBoIHaCI842CgYlLUYZ3TH7jXrrIJkKk/mPTfegBV\nLf3ikTKCn1oj0dmyrvyPfMzsd0JZSV+OaJWIBsZ6dVg5t2YiyaT8wdIrKVwZn2m7\nfjnT5Un9AgMBAAECggEAW9jCqsMvP88YxDC9PVJFlJ4SE6ngN8ylRaHnZvWsy+oX\n4jR1mAjR/gZ1o0nMVhnAkDb4CTh0G8OSIQ7UeAxxqWGNZ8O8S1vO2eeEpXUEnqz6\npFEiWv+bfHD0c+lKBAPGJVYaVaT/so2DMPtM/lObBNwjF1B2UUTrbanAZNrr4ag/\nCrr3kPTBxLJw0Z+AOhmmdOGCL+66vDw/pfBf/qrcLBgXbUGAKPB7ZW7HnCG6cXQ/\nkECvjLPg9ogKCZSpc85PJgw3d1AgmiFtiR9WZp+JLiDxB6J+ijNoclnFHc3ptsFc\nQXKMfCplDBiGKfCmIkquGh5o5dJKfzxBTl22PO2onQKBgQD0kauOOPoCFXilgcHl\nxHoAkVPYk5Tm4IRdhubIATCk+Q0A6rjugI91jfBY9btGgL8yk8jjXLLs6SXYz58z\nTUgE8KstZ5M8PT61PcNkmqIXpEfXBJkkZG3sFZtS/MPGxY414+9oLTmKPt2Vd1Zv\n4V+srW6zhBU2wMP5pC7H8lvZSwKBgQDQBPXcsZMeY9s1TBiOBUKbnx21wtTg/+67\nfExPt/MinTxBJPyCWPJWG5IuZi18QfciFJfBvQ84ZLZ6ZRt2OvJYK16E7wGsaPpk\n1v0Q5I6Tyvo8TGr8t+3KZ0A8NzISM5CKJ5JfdcXUYUZq2NZKb+SAoemWyUPc2cA+\nVFMVH9Hk1wKBgFHUi7pChiQ8WunFyMLAQrH97jgA6Ul2xdMlWAKDo2sPibJM1yO2\nEEoc+9ZIIiks2sxpdkXctmFegTNSBMp9iSNeA2hlx3XYaCrsR3xZ4PJYHVFsUHFE\nySK8+AOEX10arMKLSYdp2l7POgTQsTMuDX0RaoDWKOLxDKFytdRg2yqRAoGASBow\nDjsOv23lQWgK6s8v8zkH10Sc/RA484t19/vOrqTJidsEGzoxZV9RH/wSsAs9WfbB\nU0nwyJ9AENSS3Dw6XA1MSc9+SQBqKiHKvdw6/0dPzS6/trEaHxoCzdxj4qM06m4k\n8imkVKUS/14BiPOXxG5axQUmHJrtY61ezueknSkCgYBrmgX1T/0bYfdQWAXdJARt\n/0WJFad4rghUGL/CCJY8Ap3RN1emIGWOiAhOcAnHH0hfW0j88e1kZwdYiSCgMgmL\nxMSZF9FU/pvFuuR3t2siG+0LPFxZX2pToKZj0wX5c+kVEqy0VHtrXvShV1m8T+J6\nBREXwTQtzyrYTIb4VTU8yA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account@carbon-trilogy-294216.iam.gserviceaccount.com",
+  "client_id": "111352122914937104188",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account%40carbon-trilogy-294216.iam.gserviceaccount.com"
+}

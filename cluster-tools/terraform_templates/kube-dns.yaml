@@ -1,0 +1,12 @@
+## Fully Managed by terraform
+apiVersion: v1
+data:
+  upstreamNameservers: |
+    ["8.8.8.8", "8.8.4.4"]
+kind: ConfigMap
+metadata:
+  labels:
+    addonmanager.kubernetes.io/mode: EnsureExists
+  name: kube-dns
+  namespace: kube-system
+  

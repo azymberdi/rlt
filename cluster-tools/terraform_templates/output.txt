@@ -1,0 +1,30 @@
+================================================================
+Hello, Congrats, You were able to configure and deploy all cluster-tools.
+Please use bellow information to access to your applicaions. 
+             
+######################## Jenkins ########################
+URL: https://jenkins.${deployment_endpoint}
+Username: ${jenkins_username}
+Password: ${jenkins_password}
+##########################################################
+==========================================================
+
+
+####################### Prometheus #######################
+URL: https://prometheus.${deployment_endpoint}
+##########################################################
+==========================================================
+
+
+###################### Grafana ##########################
+URL: https://grafana.${deployment_endpoint}
+Username: ${grafana_username}
+Password: ${grafana_password}
+##########################################################
+==========================================================
+
+
+################# Kubernetes Dashboard ####################
+URL: https://dashboard.${deployment_endpoint}
+###########################################################
+===========================================================
