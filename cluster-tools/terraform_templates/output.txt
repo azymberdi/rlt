@@ -4,8 +4,6 @@ Please use bellow information to access to your applicaions.
              
 ######################## Jenkins ########################
 URL: https://jenkins.${deployment_endpoint}
-Username: ${jenkins_username}
-Password: ${jenkins_password}
 ##########################################################
 ==========================================================
 
@@ -18,8 +16,6 @@ URL: https://prometheus.${deployment_endpoint}
 
 ###################### Grafana ##########################
 URL: https://grafana.${deployment_endpoint}
-Username: ${grafana_username}
-Password: ${grafana_password}
 ##########################################################
 ==========================================================
 
