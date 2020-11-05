@@ -20,7 +20,7 @@ ingress:
     - rlt.silviarotari.com
   tls:
   - hosts:
-    - vault.silviarotari.com
+    - rlt.silviarotari.com
     secretName: chart-rlt-tls
 
 
